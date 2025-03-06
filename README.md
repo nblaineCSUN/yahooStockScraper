@@ -25,6 +25,7 @@ AWS Lambda: To run the script in the cloud.
 Boto3: AWS SDK for Python.
 BeautifulSoup4: For web scraping.
 Requests: To make HTTP requests to Yahoo Finance.
+
 **Setup**
 Create AWS Lambda Function:
 
