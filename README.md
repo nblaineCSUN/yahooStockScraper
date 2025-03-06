@@ -1,4 +1,4 @@
-/*yahooStockScraper
+
 **Overview**
 This project uses AWS Lambda to scrape stock data from Yahoo Finance, format it into an HTML table, and upload it to an Amazon S3 bucket. The stock data includes the following attributes for each stock:
 Symbol
@@ -43,4 +43,4 @@ Edit
 pip install boto3 requests beautifulsoup4
 Modify Lambda Event (Optional):
 
-If needed, adjust the Lambda event to trigger based on your use case, such as on a schedule or based on an API Gateway request. */
+If needed, adjust the Lambda event to trigger based on your use case, such as on a schedule or based on an API Gateway request.
